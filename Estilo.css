@@ -1,0 +1,36 @@
+
+.Per{
+text-align: center;
+}
+.img1{
+    text-align: center;
+}
+.Nom{
+    text-align: center;
+   font-size: 24px; 
+}
+body {
+    background-image: url("Imagenes/FondoB.jpg"); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+}
+.tabla1{
+margin-left: auto;
+margin-right: auto;
+   text-align: left;
+    background-color: bisque;
+    color: purple;
+    width: 500px;
+    height: 230px;
+}
+.tabla2{
+    margin-left: auto;
+    margin-right: auto;   
+    background-color: cornflowerblue;
+    width: 600px;
+    height: 260px;
+}
+.pie{
+    font-size: 20px;
+    background-color: aqua;
+}
